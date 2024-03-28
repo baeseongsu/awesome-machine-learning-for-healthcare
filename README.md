@@ -3,6 +3,16 @@
 Welcome to my personal repository, a curated collection of research works in machine learning for Electronic Health Records (EHRs).
 I welcome contributions and discussions, so feel free to share ideas or suggest papers!
 
+## Toward a Realistic EHR Generation
+<!--
+Synthetic EHR generation including table, notes, images ...
+-->
+- (2010/10) Data-driven approach for creating synthetic electronic medical records, Buczak et al., 2010 [[Paper]](https://pubmed.ncbi.nlm.nih.gov/20946670/)
+- (2017/03) Generating Multi-label Discrete Patient Records using Generative Adversarial Networks, Choi et al., 2017 [[Paper]](https://arxiv.org/abs/1703.06490)
+- (2023/03) EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models, Yuan and Zhou et al., 2023 [[Paper]](https://arxiv.org/abs/2303.05656)
+- (2023/04) Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model, Theodorou et al., 20223 [[Paper]](https://arxiv.org/abs/2304.02169)
+- (2023/08) EHR-Safe: generating high-fidelity and privacy-preserving synthetic electronic health records, Yoon et al., 2023 [[Paper]](https://www.nature.com/articles/s41746-023-00888-7)
+
 ## Toward a Natural Language Interface for EHRs
 <!-- 
 question answering, summarization, dialogue, instructions, ...
@@ -33,3 +43,4 @@ question answering, summarization, dialogue, instructions, ...
 - (2023/10) EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images, Bae and Kyung et al., 2023 [[Paper]](https://arxiv.org/abs/2310.18652)
 - (2024/01) EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records, Shi and Xu et al., 2024 [[Paper]](https://arxiv.org/abs/2401.07128)
 - (2024/02) EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings, Kweon and Kim et al., 2024 [[Paper]](https://arxiv.org/abs/2402.16040)
+- (2024/03) A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries, Aali et al., 2024 [[Paper]](https://arxiv.org/abs/2403.05720)
