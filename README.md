@@ -44,3 +44,12 @@ question answering, summarization, dialogue, instructions, ...
 - (2024/01) EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records, Shi and Xu et al., 2024 [[Paper]](https://arxiv.org/abs/2401.07128)
 - (2024/02) EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings, Kweon and Kim et al., 2024 [[Paper]](https://arxiv.org/abs/2402.16040)
 - (2024/03) A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries, Aali et al., 2024 [[Paper]](https://arxiv.org/abs/2403.05720)
+
+## Radiology Report Generation
+### Evaluation of radiology report generation
+- (2020/04) CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT, Smit, Jain and Rajpurkar et al., 2020 [[Paper]](https://arxiv.org/abs/2004.09167)
+- (2021/06) RadGraph: Extracting Clinical Entities and Relations from Radiology Reports, Jain, Agrawal, and Saporta et al., 2021 [[Paper]](https://arxiv.org/abs/2106.14463)
+- (2023/08) Radgraph2: Modeling disease progression in radiology reports via hierarchical information extraction, Khanna and Dejl et al., 2023 [[Paper]](https://arxiv.org/abs/2308.05046)
+- (2023/09) Evaluating progress in automatic chest x-ray radiology report generation, Yu et al., 2023 [[Paper]](https://www.cell.com/patterns/pdf/S2666-3899(23)00157-5.pdf)
+- (2023/11) Radiology-Aware Model-Based Evaluation Metric for Report Generation, Calamida et al., 2023 [[Paper]](https://arxiv.org/abs/2311.16764)
+- (2024/04) LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation, Wang et al., 2024 [[Paper]](https://arxiv.org/abs/2404.00998)
