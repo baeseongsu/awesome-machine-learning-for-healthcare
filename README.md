@@ -3,6 +3,7 @@
 Welcome to my personal repository, a curated collection of research works in machine learning for Electronic Health Records (EHRs).
 I welcome contributions and discussions, so feel free to share ideas or suggest papers!
 
+
 ## Toward a Realistic EHR Generation
 <!--
 Synthetic EHR generation including table, notes, images ...
@@ -12,6 +13,7 @@ Synthetic EHR generation including table, notes, images ...
 - (2023/03) EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models, Yuan and Zhou et al., 2023 [[Paper]](https://arxiv.org/abs/2303.05656)
 - (2023/04) Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model, Theodorou et al., 20223 [[Paper]](https://arxiv.org/abs/2304.02169)
 - (2023/08) EHR-Safe: generating high-fidelity and privacy-preserving synthetic electronic health records, Yoon et al., 2023 [[Paper]](https://www.nature.com/articles/s41746-023-00888-7)
+
 
 ## Toward a Natural Language Interface for EHRs
 <!-- 
@@ -45,8 +47,18 @@ question answering, summarization, dialogue, instructions, ...
 - (2024/02) EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings, Kweon and Kim et al., 2024 [[Paper]](https://arxiv.org/abs/2402.16040)
 - (2024/03) A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries, Aali et al., 2024 [[Paper]](https://arxiv.org/abs/2403.05720)
 
-## Radiology Report Generation
-### Evaluation of radiology report generation
+
+## Medical Imaging
+### medical imaging datasets
+- (2019/12) MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports, Johnson et al., 2019 [[Paper]](https://www.nature.com/articles/s41597-019-0322-0)
+- (2019/01) MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs, Johnson et al., 2019 [[Paper]](https://arxiv.org/abs/1901.07042)
+- (2023/10) Towards long-tailed, multi-label disease classification from chest X-ray: Overview of the CXR-LT challenge, 2023 [[Paper]](https://arxiv.org/abs/2310.16112)
+- (2024/04) RadGenome-Chest CT: A Grounded Vision-Language Dataset for Chest CT Analysis, Zhang et al., 2024 [[Paper]](https://arxiv.org/abs/2404.16754)
+
+### radiology report generation
+#### methodologies
+- TBC
+#### evaluation
 - (2020/04) CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT, Smit, Jain and Rajpurkar et al., 2020 [[Paper]](https://arxiv.org/abs/2004.09167)
 - (2021/06) RadGraph: Extracting Clinical Entities and Relations from Radiology Reports, Jain, Agrawal, and Saporta et al., 2021 [[Paper]](https://arxiv.org/abs/2106.14463)
 - (2023/08) Radgraph2: Modeling disease progression in radiology reports via hierarchical information extraction, Khanna and Dejl et al., 2023 [[Paper]](https://arxiv.org/abs/2308.05046)
