@@ -14,6 +14,9 @@ Synthetic EHR generation including table, notes, images ...
 - (2023/04) Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model, Theodorou et al., 20223 [[Paper]](https://arxiv.org/abs/2304.02169)
 - (2023/08) EHR-Safe: generating high-fidelity and privacy-preserving synthetic electronic health records, Yoon et al., 2023 [[Paper]](https://www.nature.com/articles/s41746-023-00888-7)
 
+## Large Language Models 
+- (2024/04) Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare, Acikgoz et al., 2024 [[Paper]](https://arxiv.org/abs/2404.16621)
+
 
 ## Toward a Natural Language Interface for EHRs
 <!-- 
