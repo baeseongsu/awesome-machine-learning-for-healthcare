@@ -1,10 +1,20 @@
-# awesome-machine-learning-for-ehr
+# awesome-machine-learning-for-healthcare
 
-Welcome to my personal repository, a curated collection of research works in machine learning for Electronic Health Records (EHRs).
+Welcome to my personal repository, a curated collection of research works in machine learning for healthcare.
 I welcome contributions and discussions, so feel free to share ideas or suggest papers!
 
+## Large Language Models
+### Model
+- Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare, Acikgoz et al., 2024 [[paper]](https://arxiv.org/abs/2404.16621)
+- Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks, Kim et al., 2024 [[paper]](https://arxiv.org/abs/2404.00376)
+### Evaluation
+<!--
+QA benchmark
+-->
+- MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering, Pal et al., 2022 [[paper]](https://arxiv.org/abs/2203.14371)
+- K-QA: A Real-World Medical Q&A Benchmark, Manes et al., 2024 [[paper]](https://arxiv.org/abs/2401.14493)
 
-## Toward a Realistic EHR Generation
+## Synthetic Data Generation
 <!--
 Synthetic EHR generation including table, notes, images ...
 -->
@@ -13,9 +23,6 @@ Synthetic EHR generation including table, notes, images ...
 - (2023/03) EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models, Yuan and Zhou et al., 2023 [[Paper]](https://arxiv.org/abs/2303.05656)
 - (2023/04) Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model, Theodorou et al., 20223 [[Paper]](https://arxiv.org/abs/2304.02169)
 - (2023/08) EHR-Safe: generating high-fidelity and privacy-preserving synthetic electronic health records, Yoon et al., 2023 [[Paper]](https://www.nature.com/articles/s41746-023-00888-7)
-
-## Large Language Models 
-- (2024/04) Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare, Acikgoz et al., 2024 [[Paper]](https://arxiv.org/abs/2404.16621)
 
 
 ## Toward a Natural Language Interface for EHRs
