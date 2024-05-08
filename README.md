@@ -13,6 +13,7 @@ QA benchmark
 -->
 - MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering, Pal et al., 2022 [[paper]](https://arxiv.org/abs/2203.14371)
 - K-QA: A Real-World Medical Q&A Benchmark, Manes et al., 2024 [[paper]](https://arxiv.org/abs/2401.14493)
+- MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain, Jiang et al., 2024 [[paper]](https://arxiv.org/abs/2405.02144)
 
 ## Synthetic Data Generation
 <!--
