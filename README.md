@@ -4,7 +4,7 @@ Welcome to my personal repository, a curated collection of research works in mac
 I welcome contributions and discussions, so feel free to share ideas or suggest papers!
 
 ## Large Language Models
-### model
+### method
 - Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare, Acikgoz et al., 2024 [[paper]](https://arxiv.org/abs/2404.16621)
 - Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks, Kim et al., 2024 [[paper]](https://arxiv.org/abs/2404.00376)
 ### evaluation
@@ -67,8 +67,8 @@ question answering, summarization, dialogue, instructions, ...
 - (2024/04) RadGenome-Chest CT: A Grounded Vision-Language Dataset for Chest CT Analysis, Zhang et al., 2024 [[Paper]](https://arxiv.org/abs/2404.16754)
 
 ### radiology report generation
-#### model
-- TBC
+#### method
+- (2024/01) CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation, Chen et al., 2024 [[paper]](https://arxiv.org/abs/2401.12208)
 #### evaluation
 - (2020/04) CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT, Smit, Jain and Rajpurkar et al., 2020 [[paper]](https://arxiv.org/abs/2004.09167)
 - (2021/06) RadGraph: Extracting Clinical Entities and Relations from Radiology Reports, Jain, Agrawal, and Saporta et al., 2021 [[paper]](https://arxiv.org/abs/2106.14463)
