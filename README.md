@@ -75,5 +75,6 @@ question answering, summarization, dialogue, instructions, ...
 - (2023/08) Radgraph2: Modeling disease progression in radiology reports via hierarchical information extraction, Khanna and Dejl et al., 2023 [[paper]](https://arxiv.org/abs/2308.05046)
 - (2023/09) Evaluating progress in automatic chest x-ray radiology report generation, Yu et al., 2023 [[paper]](https://www.cell.com/patterns/pdf/S2666-3899(23)00157-5.pdf)
 - (2023/11) Radiology-Aware Model-Based Evaluation Metric for Report Generation, Calamida et al., 2023 [[paper]](https://arxiv.org/abs/2311.16764)
+- (2024/03) Evaluating GPT-V4 (GPT-4 with Vision) on Detection of Radiologic Findings on Chest Radiographs, Zhou et al., 2024 [[paper]](https://pubs.rsna.org/doi/epdf/10.1148/radiol.233270)
 - (2024/04) LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation, Wang et al., 2024 [[paper]](https://arxiv.org/abs/2404.00998)
 - (2024/05) GREEN: Generative Radiology Report Evaluation and Error Notation, Ostmeier et al., 2024 [[paper]](https://arxiv.org/abs/2405.03595)
