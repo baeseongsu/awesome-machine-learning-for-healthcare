@@ -67,17 +67,18 @@ question answering, summarization, dialogue, instructions, ...
 - [ ] (2024/03) A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities [[paper]](https://arxiv.org/abs/2403.17834)
 - [ ] (2024/04) RadGenome-Chest CT: A Grounded Vision-Language Dataset for Chest CT Analysis [[paper]](https://arxiv.org/abs/2404.16754)
 - [x] (2024/06) Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification [[paper]](https://arxiv.org/abs/2406.03688)
-  <!--2024/06/20--> 
 
 ### radiology report generation
 #### method
-- [ ](2024/01) CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation, Chen et al., 2024 [[paper]](https://arxiv.org/abs/2401.12208)
+- [ ] (2024/01) CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation [[paper]](https://arxiv.org/abs/2401.12208)
+- [ ] (2024/05) Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding [[paper]](https://arxiv.org/abs/2405.19567)
+
 #### evaluation
-- [ ](2020/04) CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT, Smit, Jain and Rajpurkar et al., 2020 [[paper]](https://arxiv.org/abs/2004.09167)
-- [ ](2021/06) RadGraph: Extracting Clinical Entities and Relations from Radiology Reports, Jain, Agrawal, and Saporta et al., 2021 [[paper]](https://arxiv.org/abs/2106.14463)
-- [ ](2023/08) Radgraph2: Modeling disease progression in radiology reports via hierarchical information extraction, Khanna and Dejl et al., 2023 [[paper]](https://arxiv.org/abs/2308.05046)
-- [ ](2023/09) Evaluating progress in automatic chest x-ray radiology report generation, Yu et al., 2023 [[paper]](https://www.cell.com/patterns/pdf/S2666-3899(23)00157-5.pdf)
-- [ ](2023/11) Radiology-Aware Model-Based Evaluation Metric for Report Generation, Calamida et al., 2023 [[paper]](https://arxiv.org/abs/2311.16764)
-- [ ](2024/03) Evaluating GPT-V4 (GPT-4 with Vision) on Detection of Radiologic Findings on Chest Radiographs, Zhou et al., 2024 [[paper]](https://pubs.rsna.org/doi/epdf/10.1148/radiol.233270)
-- [ ](2024/04) LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation, Wang et al., 2024 [[paper]](https://arxiv.org/abs/2404.00998)
-- [ ](2024/05) GREEN: Generative Radiology Report Evaluation and Error Notation, Ostmeier et al., 2024 [[paper]](https://arxiv.org/abs/2405.03595)
+- [ ] (2020/04) CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT [[paper]](https://arxiv.org/abs/2004.09167)
+- [ ] (2021/06) RadGraph: Extracting Clinical Entities and Relations from Radiology Reports [[paper]](https://arxiv.org/abs/2106.14463)
+- [ ] (2023/08) Radgraph2: Modeling disease progression in radiology reports via hierarchical information extraction [[paper]](https://arxiv.org/abs/2308.05046)
+- [ ] (2023/09) Evaluating progress in automatic chest x-ray radiology report generation [[paper]](https://www.cell.com/patterns/pdf/S2666-3899(23)00157-5.pdf)
+- [ ] (2023/11) Radiology-Aware Model-Based Evaluation Metric for Report Generation [[paper]](https://arxiv.org/abs/2311.16764)
+- [ ] (2024/03) Evaluating GPT-V4 (GPT-4 with Vision) on Detection of Radiologic Findings on Chest Radiographs [[paper]](https://pubs.rsna.org/doi/epdf/10.1148/radiol.233270)
+- [ ] (2024/04) LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation [[paper]](https://arxiv.org/abs/2404.00998)
+- [ ] (2024/05) GREEN: Generative Radiology Report Evaluation and Error Notation [[paper]](https://arxiv.org/abs/2405.03595)
