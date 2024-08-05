@@ -5,15 +5,31 @@ I welcome contributions and discussions, so feel free to share ideas or suggest 
 
 ## Large Language Models
 ### method
-- Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare, Acikgoz et al., 2024 [[paper]](https://arxiv.org/abs/2404.16621)
-- Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks, Kim et al., 2024 [[paper]](https://arxiv.org/abs/2404.00376)
+- [ ] (2023/11) Meditron-70b: Scaling medical pretraining for large language models [[paper]](https://arxiv.org/abs/2311.16079)
+- [ ] Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare [[paper]](https://arxiv.org/abs/2404.16621)
+- [ ] Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks [[paper]](https://arxiv.org/abs/2404.00376)
+- [ ] Health-LLM: Large language models for health prediction via wearable sensor data [[paper]](https://arxiv.org/abs/2401.06866)
 ### evaluation
 <!--
-QA benchmark
+datasets and benchmarks
 -->
-- MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering, Pal et al., 2022 [[paper]](https://arxiv.org/abs/2203.14371)
-- K-QA: A Real-World Medical Q&A Benchmark, Manes et al., 2024 [[paper]](https://arxiv.org/abs/2401.14493)
-- MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain, Jiang et al., 2024 [[paper]](https://arxiv.org/abs/2405.02144)
+- [ ] (2022/03) MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering [[paper]](https://arxiv.org/abs/2203.14371)
+- [ ] (2023/07) Med-HALT: Medical Domain Hallucination Test for Large Language Models [[paper]](https://arxiv.org/abs/2307.15343)
+- [ ] (2024/01) K-QA: A Real-World Medical Q&A Benchmark [[paper]](https://arxiv.org/abs/2401.14493)
+- [ ] (2023/05) MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain [[paper]](https://arxiv.org/abs/2405.02144)
+
+
+## Medical Agent
+- [ ] (2023/11) MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning [[paper]](https://arxiv.org/abs/2311.10537)
+- [ ] (2024/02) Ai hospital: Interactive evaluation and collaboration of llms as intern doctors for clinical diagnosis [[paper]](https://arxiv.org/abs/2402.09742)
+- [ ] (2024/02) AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning [[paper]](https://arxiv.org/abs/2402.13225)
+- [ ] (2024/04) Adaptive Collaboration Strategy for LLMs in Medical Decision Making [[paper]](https://arxiv.org/abs/2404.15155)
+- [ ] (2024/05) Agent hospital: A simulacrum of hospital with evolvable medical agents [[paper]](https://arxiv.org/abs/2405.02957)
+- [ ] (2024/05) AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments [[paper]](https://arxiv.org/abs/2405.07960)
+- [ ] (2024/05) DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge [[paper]](https://arxiv.org/abs/2405.12541)
+- [ ] (2024/06) ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World [[paper]](https://arxiv.org/abs/2406.13890)
+- [ ] (2024/07) MMedAgent: Learning to Use Medical Tools with Multi-modal Agent [[paper]](https://arxiv.org/abs/2407.02483)
+
 
 ## Synthetic Data Generation
 <!--
