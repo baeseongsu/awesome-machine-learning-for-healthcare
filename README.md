@@ -91,6 +91,7 @@ question answering, summarization, dialogue, instructions, ...
 - [ ] (2024/03) A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities [[paper]](https://arxiv.org/abs/2403.17834)
 - [ ] (2024/04) RadGenome-Chest CT: A Grounded Vision-Language Dataset for Chest CT Analysis [[paper]](https://arxiv.org/abs/2404.16754)
 - [x] (2024/06) Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification [[paper]](https://arxiv.org/abs/2406.03688)
+- [ ] (2024/08) MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine [[paper]](https://arxiv.org/abs/2408.02900)
 
 ### radiology report generation
 #### method
