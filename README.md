@@ -1,6 +1,8 @@
 # awesome-machine-learning-for-healthcare
 
-Welcome to my personal repository, a curated collection of research works in machine learning for healthcare.
+Welcome to my personal repository, a curated collection of cutting-edge research at the intersection of machine learning and healthcare.
+As an AI researcher with a strong interest in healthcare applications, I've compiled this repository to showcase innovative works mostly in natural language processing (NLP) and multimodal learning within the healthcare domain.
+While this collection reflects my personal research focus, it aims to serve as a valuable resource for anyone passionate about leveraging machine learning for healthcare.
 I welcome contributions and discussions, so feel free to share ideas or suggest papers!
 
 ## Large Language Models
