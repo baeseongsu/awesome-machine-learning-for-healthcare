@@ -85,6 +85,14 @@ question answering, summarization, dialogue, instructions, ...
 - (2024/03) A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries, Aali et al., 2024 [[Paper]](https://arxiv.org/abs/2403.05720)
 
 
+## Fact Checking
+- [ ] Explainable Automated Fact-Checking for Public Health Claims [[paper]](https://arxiv.org/abs/2010.09926)
+- [ ] Evidence-based Fact-Checking of Health-related Claims [[paper]](https://aclanthology.org/2021.findings-emnlp.297.pdf) [[code]](https://github.com/sarrouti/healthver)
+- [ ] HealthFC: Verifying Health Claims with Evidence-Based Medical Fact-Checking [[paper]](https://arxiv.org/abs/2309.08503)
+- [ ] DOSSIER: Fact checking in electronic health records while preserving patient privacy [[paper]](https://assets.amazon.science/14/dc/fb7d891f494ab079708146267ca7/dossier-fact-checking-in-electronic-health-records-while-preserving-patient-privacy.pdf) [[code]](https://github.com/amazon-science/DOSSIER)
+- [ ] EHRCon: Dataset for Checking Consistency between Unstructured Notes and Structured Tables in Electronic Health Records [[paper]](https://arxiv.org/abs/2406.16341) [[code]](https://github.com/dustn1259/EHRCon?tab=readme-ov-file)
+
+
 ## Medical Imaging
 ### medical imaging datasets
 - [ ] (2019/12) MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports [[paper]](https://www.nature.com/articles/s41597-019-0322-0)
