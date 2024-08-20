@@ -42,14 +42,26 @@ Synthetic EHR generation including table, notes, images ...
 - [ ] (2023/03) EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models [[paper]](https://arxiv.org/abs/2303.05656)
 - [ ] (2023/04) Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model [[paper]](https://arxiv.org/abs/2304.02169)
 - [ ] (2023/08) EHR-Safe: generating high-fidelity and privacy-preserving synthetic electronic health records [[paper]](https://www.nature.com/articles/s41746-023-00888-7)
+- [ ] LLMSYN: Generating Synthetic Electronic Health Records Without Patient-Level Data [[paper]](https://openreview.net/pdf/d7fb4fbb28c010e4aab3d844bc648e87bd2e2304.pdf)
+
 
 ## Data Representation and Predictive Modeling
 <!--
 data harmonization
 predictive modeling
 -->
-- [ ] (2022/07) GenHPF: General Healthcare Predictive Framework with Multi-task Multi-source Learning [[paper]](https://arxiv.org/abs/2207.09858)
-- [ ] (2024/07) EHRmonize: A Framework for Medical Concept Abstraction from Electronic Health Records using Large Language Models [[paper]](https://arxiv.org/abs/2407.00242)
+- [ ] GenHPF: General Healthcare Predictive Framework with Multi-task Multi-source Learning [[paper]](https://arxiv.org/abs/2207.09858)
+- [ ] REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models [[paper]](https://arxiv.org/abs/2402.07016)
+- [ ] EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling [[paper]](https://arxiv.org/abs/2406.00036)
+- [ ] EHRmonize: A Framework for Medical Concept Abstraction from Electronic Health Records using Large Language Models [[paper]](https://arxiv.org/abs/2407.00242)
+
+### multimodal representation learning
+- [ ] MedFuse: Multi-modal fusion with clinical time-series data and chest X-ray images [[paper]](https://arxiv.org/abs/2207.07027)
+- [ ] Learning Missing Modal Electronic Health Records with Unified Multi-modal Data Embedding and Modality-Aware Attention [[paper]](https://arxiv.org/abs/2305.02504)
+- [ ] From Basic to Extra Features: Hypergraph Transformer Pretrain-then-Finetuning for Balanced Clinical Predictions on EHR [[paper]](https://arxiv.org/abs/2406.05682)
+- [ ] FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction [[paper]](https://arxiv.org/abs/2406.11928)
+- [ ] MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models [[paper]](https://arxiv.org/abs/2407.12309)
+- [ ] Multimodal Patient Representation Learning with Missing Modalities and Labels [[paper]](https://openreview.net/forum?id=Je5SHCKpPa)
 
 
 ## Toward a Natural Language Interface for EHRs
