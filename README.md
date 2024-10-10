@@ -31,6 +31,9 @@ datasets and benchmarks
 - [ ] (2024/05) DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge [[paper]](https://arxiv.org/abs/2405.12541)
 - [ ] (2024/06) ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World [[paper]](https://arxiv.org/abs/2406.13890)
 - [ ] (2024/07) MMedAgent: Learning to Use Medical Tools with Multi-modal Agent [[paper]](https://arxiv.org/abs/2407.02483)
+- [ ] (2024/08) MEDCO: Medical Education Copilots Based on A Multi-Agent Framework [[paper]](https://arxiv.org/abs/2408.12496)
+- [ ] (2024/08) Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions [[paper]](https://arxiv.org/abs/2408.15787)
+
 
 
 ## Synthetic Data Generation
