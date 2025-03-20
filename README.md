@@ -132,3 +132,6 @@ question answering, summarization, dialogue, instructions, ...
 - [ ] (2024/03) Evaluating GPT-V4 (GPT-4 with Vision) on Detection of Radiologic Findings on Chest Radiographs [[paper]](https://pubs.rsna.org/doi/epdf/10.1148/radiol.233270)
 - [ ] (2024/04) LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation [[paper]](https://arxiv.org/abs/2404.00998)
 - [ ] (2024/05) GREEN: Generative Radiology Report Evaluation and Error Notation [[paper]](https://arxiv.org/abs/2405.03595)
+
+
+- [ ] MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models, Sepehri et al., ICLR 2025 [[arxiv]](https://arxiv.org/abs/2409.15477)
