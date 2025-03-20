@@ -134,4 +134,7 @@ question answering, summarization, dialogue, instructions, ...
 - [ ] (2024/05) GREEN: Generative Radiology Report Evaluation and Error Notation [[paper]](https://arxiv.org/abs/2405.03595)
 
 
+## Multimodal Large Language Models (MLLMs)
+<!-- Medical Visual Question Answering, Probing -->
 - [ ] MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models, Sepehri et al., ICLR 2025 [[arxiv]](https://arxiv.org/abs/2409.15477)
+- [ ] MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models, Xia et al., ICLR 2025 [[arxiv]](https://arxiv.org/abs/2410.13085)
