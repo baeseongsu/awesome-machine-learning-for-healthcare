@@ -104,7 +104,7 @@ question answering, summarization, dialogue, instructions, ...
 
 - **Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing**  
   *Authors:* Yu et al.  
-  *Published in:* LREC 2020
+  *Published in:* LREC 2020  
   [[paper]](https://aclanthology.org/2020.lrec-1.714/)
 
 - **Paraphrasing to Improve the Performance of Electronic Health Records Question Answering**  
@@ -150,11 +150,11 @@ question answering, summarization, dialogue, instructions, ...
 - **EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records**  
   *Authors:* Lee et al.  
   *Published in:* NeurIPS 2022 (Datasets and Benchmarks Track)  
-  [[arxiv]](https://arxiv.org/abs/2301.07695)
+  [[arxiv]](https://arxiv.org/abs/2301.07695) | [[code]](https://github.com/glee4810/EHRSQL)
 
 - **LeafAI: query generator for clinical cohort discovery rivaling a human programmer**  
   *Authors:* Dobbins et al.  
-  *Published in:* JAMIA 2023
+  *Published in:* JAMIA 2023  
   [[arxiv]](https://arxiv.org/abs/2304.06203)
 
 - **Toward a Neural Semantic Parsing System for EHR Question Answering**  
