@@ -101,12 +101,36 @@ question answering, summarization, dialogue, instructions, ...
 
 
 ## Fact Checking
-- [ ] Explainable Automated Fact-Checking for Public Health Claims [[paper]](https://arxiv.org/abs/2010.09926)
-- [ ] Evidence-based Fact-Checking of Health-related Claims [[paper]](https://aclanthology.org/2021.findings-emnlp.297.pdf) [[code]](https://github.com/sarrouti/healthver)
-- [ ] HealthFC: Verifying Health Claims with Evidence-Based Medical Fact-Checking [[paper]](https://arxiv.org/abs/2309.08503)
-- [ ] DOSSIER: Fact checking in electronic health records while preserving patient privacy [[paper]](https://assets.amazon.science/14/dc/fb7d891f494ab079708146267ca7/dossier-fact-checking-in-electronic-health-records-while-preserving-patient-privacy.pdf) [[code]](https://github.com/amazon-science/DOSSIER)
-- [ ] EHRCon: Dataset for Checking Consistency between Unstructured Notes and Structured Tables in Electronic Health Records [[paper]](https://arxiv.org/abs/2406.16341) [[code]](https://github.com/dustn1259/EHRCon?tab=readme-ov-file)
 
+- **Explainable Automated Fact-Checking for Public Health Claims**  
+  *Authors:* Neema Kotonya, Francesca Toni  
+  *Published in:* Proceedings of EMNLP 2020  
+  [[paper]](https://arxiv.org/abs/2010.09926) | [[github]](https://github.com/neemakot/Health-Fact-Checking)  
+
+- **Evidence-based Fact-Checking of Health-related Claims**  
+  *Authors:* Sarrouti et al.  
+  *Published in:* Findings of EMNLP 2021  
+  [[paper]](https://aclanthology.org/2021.findings-emnlp.297.pdf) | [[code]](https://github.com/sarrouti/healthver)  
+
+- **HealthFC: Verifying Health Claims with Evidence-Based Medical Fact-Checking**  
+  *Authors:* Juraj Vladika, Phillip Schneider, Florian Matthes  
+  *Published in:* LREC-COLING 2024  
+  [[paper]](https://aclanthology.org/2024.lrec-main.709/) | [[github]](https://github.com/jvladika/HealthFC)  
+
+- **DOSSIER: Fact Checking in Electronic Health Records while Preserving Patient Privacy**  
+  *Authors:* Zhang et al.  
+  *Published in:* MLHC 2024  
+  [[paper]](https://www.amazon.science/publications/dossier-fact-checking-in-electronic-health-records-while-preserving-patient-privacy) | [[code]](https://github.com/amazon-science/DOSSIER)  
+
+- **EHRCon: Dataset for Checking Consistency between Unstructured Notes and Structured Tables in Electronic Health Records**  
+  *Authors:* Kwon, Kim, et al.  
+  *Published in:* Accepted at NeurIPS 2024  
+  [[arxiv]](https://arxiv.org/abs/2406.16341) | [[github]](https://github.com/dustn1259/EHRCon?tab=readme-ov-file) | [[physionet]](https://physionet.org/content/ehrcon-consistency-of-notes/1.0.1/)  
+
+- **FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models**  
+  *Authors:* Heiman et al.  
+  *Published in:* Accepted at CVPR 2025  
+  [[arxiv]](https://arxiv.org/abs/2411.18672) | [[github]](https://github.com/rajpurkarlab/FactCheXcker)  
 
 ## Medical Imaging
 ### medical imaging datasets
