@@ -71,33 +71,141 @@ predictive modeling
 <!-- 
 question answering, summarization, dialogue, instructions, ...
 -->
-- (2015/03) Toward a Natural Language Interface for EHR Questions, Roberts and Demner-Fushman, 2015 [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4525248/)
-- (2016/05) Annotating logical forms for EHR questions, Roberts and Demner-Fushman, 2016 [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5428549/)
-- (2018/04) A Semantic Parsing Method for Mapping Clinical Questions to Logical Forms, Roberts and Demner-Fushman [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5977685/)
-- (2018/09) emrQA: A Large Corpus for Question Answering on Electronic Medical Records, Pampri et al., 2018 [[Paper]](https://arxiv.org/abs/1809.00732)
-- (2019/08) Text-to-SQL Generation for Question Answering on Electronic Medical Records, Wang et al., 2019 [[Paper]](https://arxiv.org/abs/1908.01839)
-- (2020/03) Using FHIR to Construct a Corpus of Clinical Questions Annotated with Logical Forms and Answers, Soni et al., 2020 [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153115/)
-- (2020/05) Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing, Yu et al., 2018 [[Paper]](https://aclanthology.org/2020.lrec-1.714/)
-- (2020/05) Paraphrasing to improve the performance of Electronic Health Records Question Answering, Soni and Roberts, 2020 [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233085/)
-- (2020/10) Knowledge Graph-based Question Answering with Electronic Health Records, Park et al., 2020 [[Paper]](https://arxiv.org/abs/2010.09394)
-- (2021/06) emrKBQA: A Clinical Knowledge-Base Question Answering Dataset, Raghavan et al., 2021 [[Paper]](https://aclanthology.org/2021.bionlp-1.7/)
-- (2021/11) Question Answering for Complex Electronic Health Records Database using Unified Encoder-Decoder Architecture, Bae et al., 2021 [[Paper]](https://arxiv.org/abs/2111.14703)
-- (2022/03) Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records, Kim et al., 2022 [[Paper]](https://arxiv.org/abs/2203.06918)
-- (2022/05) DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries, Bardhan et al., 2022 [[Paper]](https://arxiv.org/abs/2205.01290)
-- (2022/06) Learning to Ask Like a Physician, Lehman et al., 2022 [[Paper]](https://arxiv.org/abs/2206.02696)
-- (2022/06) RadQA: A Question Answering Dataset to Improve Comprehension of Radiology Reports, Soni et al., 2022 [[Paper]](https://aclanthology.org/2022.lrec-1.672/)
-- (2023/01) EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records, Lee et al., 2023 [[Paper]](https://arxiv.org/abs/2301.07695)
-- (2023/04) LeafAI: query generator for clinical cohort discovery rivaling a human programmer, Dobbins et al., 2023 [[Paper]](https://arxiv.org/abs/2304.06203)
-- (2023/04) Toward a Neural Semantic Parsing System for EHR Question Answering, Soni and Roberts [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148366/)
-- (2023/04) quEHRy: a question answering system to query electronic health records, Soni et al., 2023 [[Paper]](https://academic.oup.com/jamia/article-abstract/30/6/1091/7136720)
-- (2023/06) ECG-QA: A Comprehensive Question Answering Dataset Combined With Electrocardiogram, Oh et al., 2023 [[Paper]](https://arxiv.org/abs/2306.15681)
-- (2023/08) MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records, Fleming et al., 2023 [[Paper]](https://arxiv.org/abs/2308.14089)
-- (2023/09) Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization, Veen et al., 2023 [[Paper]](https://arxiv.org/abs/2309.07430)
-- (2023/10) Question Answering for Electronic Health Records: A Scoping Review of datasets and models, Bardhan et al., 2023 [[Paper]](https://arxiv.org/abs/2310.08759)
-- (2023/10) EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images, Bae and Kyung et al., 2023 [[Paper]](https://arxiv.org/abs/2310.18652)
-- (2024/01) EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records, Shi and Xu et al., 2024 [[Paper]](https://arxiv.org/abs/2401.07128)
-- (2024/02) EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings, Kweon and Kim et al., 2024 [[Paper]](https://arxiv.org/abs/2402.16040)
-- (2024/03) A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries, Aali et al., 2024 [[Paper]](https://arxiv.org/abs/2403.05720)
+
+- **Toward a Natural Language Interface for EHR Questions**  
+  *Authors:* Kirk Roberts, Dina Demner‑Fushman  
+  *Published in:* AMIA Joint Summits on Translational Science Proceedings (2015)  
+  [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4525248/)
+
+- **Annotating Logical Forms for EHR Questions**  
+  *Authors:* Kirk Roberts, Dina Demner‑Fushman  
+  *Published in:* LREC 2016  
+  [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5428549/)
+
+- **A Semantic Parsing Method for Mapping Clinical Questions to Logical Forms**  
+  *Authors:* Kirk Roberts, Dina Demner‑Fushman  
+  *Published in:* AMIA Annual Symposium Proceedings (2017)  
+  [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5977685/)
+
+- **emrQA: A Large Corpus for Question Answering on Electronic Medical Records**  
+  *Authors:* Pampri et al.  
+  *Published in:* EMNLP 2018  
+  [[arxiv]](https://arxiv.org/abs/1809.00732)
+
+- **Text-to-SQL Generation for Question Answering on Electronic Medical Records**  
+  *Authors:* Wang et al.  
+  *Published in:* WWW 2020  
+  [[arxiv]](https://arxiv.org/abs/1908.01839)
+
+- **Using FHIR to Construct a Corpus of Clinical Questions Annotated with Logical Forms and Answers**  
+  *Authors:* Soni et al.  
+  *Published in:* AMIA Joint Summits on Translational Science Proceedings 2019  
+  [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153115/)
+
+- **Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing**  
+  *Authors:* Yu et al.  
+  *Published in:* LREC 2020
+  [[paper]](https://aclanthology.org/2020.lrec-1.714/)
+
+- **Paraphrasing to Improve the Performance of Electronic Health Records Question Answering**  
+  *Authors:* Soni, Roberts  
+  *Published in:* AMIA Joint Summits on Translational Science Proceedings (2020)  
+  [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233085/)
+
+- **Knowledge Graph-based Question Answering with Electronic Health Records**  
+  *Authors:* Park et al.  
+  *Published in:* ML4H 2020  
+  [[arxiv]](https://arxiv.org/abs/2010.09394)
+
+- **emrKBQA: A Clinical Knowledge-Base Question Answering Dataset**  
+  *Authors:* Raghavan et al.  
+  *Published in:* ACL 2021 BioNLP Workshop  
+  [[paper]](https://aclanthology.org/2021.bionlp-1.7/)
+
+- **Question Answering for Complex Electronic Health Records Database using Unified Encoder-Decoder Architecture**  
+  *Authors:* Bae et al.  
+  *Published in:* ML4H 2021  
+  [[arxiv]](https://arxiv.org/abs/2111.14703)
+
+- **Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records**  
+  *Authors:* Kim et al.  
+  *Published in:* CHIL 2022  
+  [[arxiv]](https://arxiv.org/abs/2203.06918)
+
+- **DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries**  
+  *Authors:* Bardhan et al.  
+  *Published in:* LREC 2022  
+  [[arxiv]](https://arxiv.org/abs/2205.01290)
+
+- **Learning to Ask Like a Physician**  
+  *Authors:* Lehman et al.  
+  *Published in:* ACL 2022 Clinical NLP Workshop  
+  [[arxiv]](https://arxiv.org/abs/2206.02696)
+
+- **RadQA: A Question Answering Dataset to Improve Comprehension of Radiology Reports**  
+  *Authors:* Soni et al.  
+  *Published in:* LREC 2022  
+  [[paper]](https://aclanthology.org/2022.lrec-1.672/)
+
+- **EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records**  
+  *Authors:* Lee et al.  
+  *Published in:* NeurIPS 2022 (Datasets and Benchmarks Track)  
+  [[arxiv]](https://arxiv.org/abs/2301.07695)
+
+- **LeafAI: query generator for clinical cohort discovery rivaling a human programmer**  
+  *Authors:* Dobbins et al.  
+  *Published in:* JAMIA 2023
+  [[arxiv]](https://arxiv.org/abs/2304.06203)
+
+- **Toward a Neural Semantic Parsing System for EHR Question Answering**  
+  *Authors:* Soni, Roberts  
+  *Published in:* AMIA Annual Symposium Proceedings 2023  
+  [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148366/)
+
+- **quEHRy: a question answering system to query electronic health records**  
+  *Authors:* Soni et al.  
+  *Published in:* JAMIA 2023  
+  [[paper]](https://academic.oup.com/jamia/article-abstract/30/6/1091/7136720)
+
+- **ECG-QA: A Comprehensive Question Answering Dataset Combined With Electrocardiogram**  
+  *Authors:* Oh et al.  
+  *Published in:* NeurIPS 2023 (Datasets and Benchmarks Track)  
+  [[arxiv]](https://arxiv.org/abs/2306.15681)
+
+- **MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records**  
+  *Authors:* Fleming et al.  
+  *Published in:* AAAI 2024  
+  [[arxiv]](https://arxiv.org/abs/2308.14089)
+
+- **Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization**  
+  *Authors:* Veen et al.  
+  *Published in:* Nature medicine (2024)  
+  [[arxiv]](https://arxiv.org/abs/2309.07430)
+
+- **Question Answering for Electronic Health Records: A Scoping Review of Datasets and Models**  
+  *Authors:* Bardhan et al.  
+  *Published in:* JMIR 2024  
+  [[arxiv]](https://arxiv.org/abs/2310.08759)
+
+- **EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images**  
+  *Authors:* Bae, Kyung et al.  
+  *Published in:* NeurIPS 2023 (Datasets and Benchmarks Track)  
+  [[arxiv]](https://arxiv.org/abs/2310.18652) | [[code]](https://github.com/baeseongsu/ehrxqa) | [[physionet]](https://physionet.org/content/ehrxqa/1.0.0/)
+
+- **EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records**  
+  *Authors:* Shi, Xu et al.  
+  *Published in:* EMNLP 2024  
+  [[arxiv]](https://arxiv.org/abs/2401.07128) | [[code]](https://github.com/wshi83/EhrAgent)
+
+- **EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings**  
+  *Authors:* Kweon, Kim et al.  
+  *Published in:* NeurIPS 2024 (Datasets and Benchmarks Track)  
+  [[arxiv]](https://arxiv.org/abs/2402.16040) | [[code]](https://github.com/ji-youn-kim/ehrnoteqa) | [[physionet]](https://physionet.org/content/ehr-notes-qa-llms/1.0.0/)
+
+- **A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries**  
+  *Authors:* Aali et al.  
+  *Status:* arXiv preprint  
+  [[arxiv]](https://arxiv.org/abs/2403.05720)
 
 
 ## Fact Checking
@@ -159,6 +267,16 @@ question answering, summarization, dialogue, instructions, ...
 
 
 ## Multimodal Large Language Models (MLLMs)
-<!-- Medical Visual Question Answering, Probing -->
-- [ ] MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models, Sepehri et al., ICLR 2025 [[arxiv]](https://arxiv.org/abs/2409.15477)
-- [ ] MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models, Xia et al., ICLR 2025 [[arxiv]](https://arxiv.org/abs/2410.13085)
+<!-- 
+benchmark, models
+-->
+
+- **MediConfusion: Can You Trust Your AI Radiologist? Probing the Reliability of Multimodal Medical Foundation Models**  
+  *Authors:* Sepehri et al.  
+  *Published in:* ICLR 2025  
+  [[arxiv]](https://arxiv.org/abs/2409.15477)
+
+- **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models**  
+  *Authors:* Xia et al.  
+  *Published in:* ICLR 2025  
+  [[arxiv]](https://arxiv.org/abs/2410.13085)
