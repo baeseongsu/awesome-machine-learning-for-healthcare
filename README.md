@@ -280,3 +280,9 @@ benchmark, models
   *Authors:* Xia et al.  
   *Published in:* ICLR 2025  
   [[arxiv]](https://arxiv.org/abs/2410.13085)
+
+- **GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**  
+  [[arxiv]](https://arxiv.org/abs/2504.01886)
+
+- **Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**  
+  [[arxiv]](https://arxiv.org/abs/2504.02799)
