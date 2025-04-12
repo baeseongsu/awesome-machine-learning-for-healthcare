@@ -238,7 +238,14 @@ question answering, summarization, dialogue, instructions, ...
 - **FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models**  
   *Authors:* Heiman et al.  
   *Published in:* Accepted at CVPR 2025  
-  [[arxiv]](https://arxiv.org/abs/2411.18672) | [[github]](https://github.com/rajpurkarlab/FactCheXcker)  
+  [[arxiv]](https://arxiv.org/abs/2411.18672) | [[github]](https://github.com/rajpurkarlab/FactCheXcker)
+
+- **VeriFact: Verifying Facts in LLM-Generated Clinical Text with Electronic Health Records**  
+  *Authors:* Chung et al.  
+  *Status:* arXiv preprint  
+  [[arxiv]](https://arxiv.org/abs/2501.16672) | [[github]](https://github.com/philipchung/verifact?tab=readme-ov-file) | [[physionet]](https://physionet.org/content/mimic-iii-ext-verifact-bhc/1.0.0/)  
+
+
 
 ## Medical Imaging
 ### medical imaging datasets
