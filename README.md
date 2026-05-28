@@ -9,6 +9,7 @@ A curated list of machine learning papers for healthcare, with an emphasis on na
 - [Synthetic Data Generation](#synthetic-data-generation)
 - [Data Representation and Predictive Modeling](#data-representation-and-predictive-modeling)
 - [Toward a Natural Language Interface for EHRs](#toward-a-natural-language-interface-for-ehrs)
+- [Digital Scribing and Clinical Documentation](#digital-scribing-and-clinical-documentation)
 - [Fact Checking](#fact-checking)
 - [Medical Imaging](#medical-imaging)
 - [Multimodal Large Language Models](#multimodal-large-language-models)
@@ -132,6 +133,84 @@ A curated list of machine learning papers for healthcare, with an emphasis on na
 - [EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records](https://aclanthology.org/2024.emnlp-main.1245/) | EMNLP' 24 | [Code](https://github.com/wshi83/EhrAgent)
 - [EHRNoteQA: An LLM Benchmark for Real-World Clinical Practice Using Discharge Summaries](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e15c4afff22f12c4986c1fcb4e941e03-Abstract-Datasets_and_Benchmarks_Track.html) | NeurIPS Datasets and Benchmarks' 24 | [Code](https://github.com/ji-youn-kim/ehrnoteqa) | [PhysioNet](https://physionet.org/content/ehr-notes-qa-llms/1.0.0/)
 - [A dataset and benchmark for hospital course summarization with adapted large language models](https://doi.org/10.1093/jamia/ocae312) | JAMIA, 2025
+
+## Digital Scribing and Clinical Documentation
+
+### Reviews and Perspectives
+
+2021
+- [The digital scribe in clinical practice: a scoping review and research agenda](https://www.nature.com/articles/s41746-021-00432-5) | npj Digital Medicine, 2021
+
+2024
+- [The Utility and Implications of Ambient Scribes in Primary Care](https://ai.jmir.org/2024/1/e57673/) | JMIR AI, 2024
+
+2025
+- [Real-World Evidence Synthesis of Digital Scribes Using Ambient Listening and Generative Artificial Intelligence for Clinician Documentation Workflows: Rapid Review](https://ai.jmir.org/2025/1/e76743) | JMIR AI, 2025
+- [Policy brief: ambient AI scribes and the coding arms race](https://www.nature.com/articles/s41746-025-02272-z) | npj Digital Medicine, 2025
+
+2026
+- [Barriers and opportunities of scaling ambient AI scribes for clinical documentation across diverse healthcare settings](https://www.nature.com/articles/s41746-026-02554-0) | npj Digital Medicine, 2026
+
+### Dialogue-to-Note Generation
+
+2020
+- [Towards an Automated SOAP Note: Classifying Utterances from Medical Conversations](https://proceedings.mlr.press/v126/schloss20a.html) | MLHC' 20
+
+2021
+- [Towards Automating Medical Scribing: Clinic Visit Dialogue2Note Sentence Alignment and Snippet Summarization](https://aclanthology.org/2021.nlpmc-1.2/) | NLP-MC Workshop' 21
+- [Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques](https://aclanthology.org/2021.acl-long.384/) | ACL-IJCNLP' 21
+
+2022
+- [User-Driven Research of Medical Note Generation Software](https://aclanthology.org/2022.naacl-main.29/) | NAACL' 22
+
+2023
+- [An Empirical Study of Clinical Note Generation from Doctor-Patient Encounters](https://aclanthology.org/2023.eacl-main.168/) | EACL' 23
+
+2024
+- [Exploring Robustness in Doctor-Patient Conversation Summarization: An Analysis of Out-of-Domain SOAP Notes](https://aclanthology.org/2024.clinicalnlp-1.1/) | ClinicalNLP' 24
+
+2026
+- [Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization](https://arxiv.org/abs/2604.06138) | arXiv, 2026/04
+
+### Datasets and Benchmarks
+
+2022
+- [PriMock57: A Dataset Of Primary Care Mock Consultations](https://aclanthology.org/2022.acl-short.65/) | ACL' 22
+
+2023
+- [Aci-bench: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation](https://www.nature.com/articles/s41597-023-02487-3) | Scientific Data, 2023
+- [Overview of the MEDIQA-Chat 2023 Shared Tasks on the Summarization & Generation of Doctor-Patient Conversations](https://aclanthology.org/2023.clinicalnlp-1.52/) | ClinicalNLP' 23
+
+2025
+- [MedSynth: Realistic, Synthetic Medical Dialogue-Note Pairs](https://arxiv.org/abs/2508.01401) | arXiv, 2025/08
+
+### Ambient Scribe Deployment and Evaluation
+
+2024
+- [The association between use of ambient voice technology documentation during primary care patient encounters, documentation burden, and provider burnout](https://academic.oup.com/fampra/article/41/2/86/7261607) | Family Practice, 2024
+- [The impact of nuance DAX ambient listening AI documentation: a cohort study](https://doi.org/10.1093/jamia/ocae022) | JAMIA, 2024
+- [Use of an ambient artificial intelligence tool to improve quality of clinical documentation](https://doi.org/10.1016/j.fhj.2024.100157) | Future Healthcare Journal, 2024
+- [Impact of a Digital Scribe System on Clinical Documentation Time and Quality: Usability Study](https://ai.jmir.org/2024/1/e60020/) | JMIR AI, 2024
+- [Impact of an Artificial Intelligence-Based Solution on Clinicians' Clinical Documentation Experience: Initial Findings Using Ambient Listening Technology](https://link.springer.com/article/10.1007/s11606-024-08924-2) | Journal of General Internal Medicine, 2024
+- [AI-Powered Clinical Documentation and Clinicians' Electronic Health Record Experience: A Nonrandomized Clinical Trial](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823302) | JAMA Network Open, 2024
+
+2025
+- [An evaluation framework for ambient digital scribing tools in clinical applications](https://www.nature.com/articles/s41746-025-01622-1) | npj Digital Medicine, 2025
+- [Ambient artificial intelligence scribes: physician burnout and perspectives on usability and documentation burden](https://doi.org/10.1093/jamia/ocae295) | JAMIA, 2025
+- [Ambient artificial intelligence scribes: utilization and impact on documentation time](https://doi.org/10.1093/jamia/ocae304) | JAMIA, 2025
+- [Clinician Experiences With Ambient Scribe Technology to Assist With Documentation Burden and Efficiency](https://doi.org/10.1001/jamanetworkopen.2024.60637) | JAMA Network Open, 2025
+- [Physician Perspectives on Ambient AI Scribes](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831866) | JAMA Network Open, 2025
+- [Use of Ambient AI Scribes to Reduce Administrative Burden and Professional Burnout](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839542) | JAMA Network Open, 2025
+- [Ambient Documentation Technology in Clinician Experience of Documentation Burden and Burnout](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837847) | JAMA Network Open, 2025
+- [Ambient AI-assisted clinical documentation in surgical outpatient care: a preliminary study of usability, workflow, and patient experience](https://wjps.bmj.com/content/8/5/e001073) | World Journal of Pediatric Surgery, 2025
+- [Ambient Artificial Intelligence Scribes: Learnings after 1 Year and over 2.5 Million Uses](https://catalyst.nejm.org/doi/10.1056/CAT.25.0040) | NEJM Catalyst, 2025
+
+2026
+- [Ambient Scribe Technology in Simulated Patient Encounters Across Specialties](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843515) | JAMA Network Open, 2026
+- [Vision-Enabled AI scribes reduce omissions in clinical conversations: evidence from simulated medication histories](https://www.nature.com/articles/s41746-026-02494-9) | npj Digital Medicine, 2026
+- [Ambient Artificial Intelligence Scribes and Physician Financial Productivity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843524) | JAMA Network Open, 2026
+- [Impact of an Ambient AI Scribe Among Clinicians and Patients: Real-World Prospective Observational Time-Motion Study](https://medinform.jmir.org/2026/1/e85580/) | JMIR Medical Informatics, 2026
+- [Ambient scribe in general practice: a multi-perspective before-after longitudinal mixed-methods study](https://www.nature.com/articles/s41746-026-02454-3) | npj Digital Medicine, 2026
 
 ## Fact Checking
 

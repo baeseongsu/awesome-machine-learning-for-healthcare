@@ -20,13 +20,16 @@ Proceedings publishers such as PMLR, ACM, Springer, and CVF are intentionally om
 ### NLP / Language
 
 - **[ACL](https://www.aclweb.org/portal/acl)**: Annual Meeting of the Association for Computational Linguistics
+- **[ACL-IJCNLP](https://2021.aclweb.org/)**: Joint Annual Meeting of the ACL and International Joint Conference on Natural Language Processing
 - **[EMNLP](https://www.aclweb.org/portal/emnlp)**: Conference on Empirical Methods in Natural Language Processing
 - **[NAACL](https://www.aclweb.org/portal/naacl)**: Annual Conference of the North American Chapter of the Association for Computational Linguistics
+- **[EACL](https://eacl.org/)**: Conference of the European Chapter of the Association for Computational Linguistics
 - **[COLING](https://ufal.mff.cuni.cz/iccl)**: International Conference on Computational Linguistics
 - **[CoNLL](https://www.conll.org/)**: Conference on Computational Natural Language Learning
 - **[LREC-COLING](https://lrec-coling-2024.org/)**: Joint International Conference on Computational Linguistics, Language Resources and Evaluation
 - **[BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop)**: Biomedical Natural Language Processing Workshop
-- **[Clinical NLP](https://clinical-nlp.github.io/)**: Clinical Natural Language Processing Workshop
+- **[ClinicalNLP](https://clinical-nlp.github.io/)**: Clinical Natural Language Processing Workshop
+- **[NLP-MC Workshop](https://aclanthology.org/venues/nlpmc/)**: Workshop on Natural Language Processing for Medical Conversations
 
 ### Healthcare / Medical AI
 
@@ -65,12 +68,14 @@ Proceedings publishers such as PMLR, ACM, Springer, and CVF are intentionally om
 
 - **[NEJM](https://www.nejm.org/)**: New England Journal of Medicine
 - **[NEJM AI](https://ai.nejm.org/)**: New England Journal of Medicine AI
+- **[NEJM Catalyst](https://catalyst.nejm.org/)**
 - **[JAMA](https://jamanetwork.com/journals/jama)**: Journal of the American Medical Association
 - **[JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen)**
 - **[Nature Medicine](https://www.nature.com/nm/)**
 - **[npj Digital Medicine](https://www.nature.com/npjdigitalmed/)**
 - **[The Lancet Digital Health](https://www.thelancet.com/journals/landig/home)**
 - **[BMJ Health & Care Informatics](https://informatics.bmj.com/)**
+- **[JMIR AI](https://ai.jmir.org/)**
 - **[JMIR Medical Informatics](https://medinform.jmir.org/)**
 - **[BMC Medical Informatics and Decision Making](https://bmcmedinformdecismak.biomedcentral.com/)**
 
@@ -81,7 +86,11 @@ Proceedings publishers such as PMLR, ACM, Springer, and CVF are intentionally om
 - **[Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)**
 - **[Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)**
 - **[JMIR](https://www.jmir.org/)**: Journal of Medical Internet Research
+- **[Journal of General Internal Medicine](https://link.springer.com/journal/11606)**
+- **[Future Healthcare Journal](https://www.sciencedirect.com/journal/future-healthcare-journal)**
+- **[Family Practice](https://academic.oup.com/fampra)**
 - **[Patterns](https://www.cell.com/patterns/home)**
+- **[World Journal of Pediatric Surgery](https://wjps.bmj.com/)**
 
 ### Data / Scientific Resources
 
