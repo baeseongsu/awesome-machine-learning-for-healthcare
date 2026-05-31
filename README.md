@@ -138,6 +138,12 @@ A curated list of machine learning papers for healthcare, with an emphasis on na
 
 ### Reviews and Perspectives
 
+2018
+- [The digital scribe](https://www.nature.com/articles/s41746-018-0066-9) | npj Digital Medicine, 2018
+
+2019
+- [Challenges of developing a digital scribe to reduce clinical documentation burden](https://www.nature.com/articles/s41746-019-0190-1) | npj Digital Medicine, 2019
+
 2021
 - [The digital scribe in clinical practice: a scoping review and research agenda](https://www.nature.com/articles/s41746-021-00432-5) | npj Digital Medicine, 2021
 
@@ -146,6 +152,7 @@ A curated list of machine learning papers for healthcare, with an emphasis on na
 
 2025
 - [Real-World Evidence Synthesis of Digital Scribes Using Ambient Listening and Generative Artificial Intelligence for Clinician Documentation Workflows: Rapid Review](https://ai.jmir.org/2025/1/e76743) | JMIR AI, 2025
+- [Beyond human ears: navigating the uncharted risks of AI scribes in clinical practice](https://www.nature.com/articles/s41746-025-01895-6) | npj Digital Medicine, 2025
 - [Policy brief: ambient AI scribes and the coding arms race](https://www.nature.com/articles/s41746-025-02272-z) | npj Digital Medicine, 2025
 
 2026
@@ -168,6 +175,10 @@ A curated list of machine learning papers for healthcare, with an emphasis on na
 
 2024
 - [Exploring Robustness in Doctor-Patient Conversation Summarization: An Analysis of Out-of-Domain SOAP Notes](https://aclanthology.org/2024.clinicalnlp-1.1/) | ClinicalNLP' 24
+
+2025
+- [Evaluation and practical application of prompt-driven ChatGPTs for EMR generation](https://www.nature.com/articles/s41746-025-01472-x) | npj Digital Medicine, 2025
+- [Enhancing clinical documentation with voice processing and large language models: a study on the LAOS system](https://www.nature.com/articles/s41746-025-02170-4) | npj Digital Medicine, 2025
 
 2026
 - [Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization](https://arxiv.org/abs/2604.06138) | arXiv, 2026/04
@@ -196,12 +207,17 @@ A curated list of machine learning papers for healthcare, with an emphasis on na
 
 2025
 - [An evaluation framework for ambient digital scribing tools in clinical applications](https://www.nature.com/articles/s41746-025-01622-1) | npj Digital Medicine, 2025
+- [A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation](https://www.nature.com/articles/s41746-025-01670-7) | npj Digital Medicine, 2025
 - [Ambient artificial intelligence scribes: physician burnout and perspectives on usability and documentation burden](https://doi.org/10.1093/jamia/ocae295) | JAMIA, 2025
 - [Ambient artificial intelligence scribes: utilization and impact on documentation time](https://doi.org/10.1093/jamia/ocae304) | JAMIA, 2025
 - [Clinician Experiences With Ambient Scribe Technology to Assist With Documentation Burden and Efficiency](https://doi.org/10.1001/jamanetworkopen.2024.60637) | JAMA Network Open, 2025
 - [Physician Perspectives on Ambient AI Scribes](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831866) | JAMA Network Open, 2025
 - [Use of Ambient AI Scribes to Reduce Administrative Burden and Professional Burnout](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839542) | JAMA Network Open, 2025
 - [Ambient Documentation Technology in Clinician Experience of Documentation Burden and Burnout](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837847) | JAMA Network Open, 2025
+- [Use of an AI Scribe and Electronic Health Record Efficiency](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839929) | JAMA Network Open, 2025
+- [Ambient AI Scribes in Clinical Practice: A Randomized Trial](https://pubmed.ncbi.nlm.nih.gov/41497288/) | NEJM AI, 2025
+- [A Pragmatic Randomized Controlled Trial of Ambient Artificial Intelligence to Improve Health Practitioner Well-Being](https://pubmed.ncbi.nlm.nih.gov/41625485/) | NEJM AI, 2025
+- [Evaluating clinical AI summaries with large language models as judges](https://www.nature.com/articles/s41746-025-02005-2) | npj Digital Medicine, 2025
 - [Ambient AI-assisted clinical documentation in surgical outpatient care: a preliminary study of usability, workflow, and patient experience](https://wjps.bmj.com/content/8/5/e001073) | World Journal of Pediatric Surgery, 2025
 - [Ambient Artificial Intelligence Scribes: Learnings after 1 Year and over 2.5 Million Uses](https://catalyst.nejm.org/doi/10.1056/CAT.25.0040) | NEJM Catalyst, 2025
 
@@ -209,8 +225,14 @@ A curated list of machine learning papers for healthcare, with an emphasis on na
 - [Ambient Scribe Technology in Simulated Patient Encounters Across Specialties](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843515) | JAMA Network Open, 2026
 - [Vision-Enabled AI scribes reduce omissions in clinical conversations: evidence from simulated medication histories](https://www.nature.com/articles/s41746-026-02494-9) | npj Digital Medicine, 2026
 - [Ambient Artificial Intelligence Scribes and Physician Financial Productivity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843524) | JAMA Network Open, 2026
+- [Patient attitudes toward ambient artificial intelligence scribes in clinical care: insights from a cross-sectional study](https://doi.org/10.1093/jamia/ocaf218) | JAMIA, 2026
+- [Listening to the note: clinician perspectives on ambient artificial intelligence scribes in medical documentation](https://doi.org/10.1093/jamia/ocaf214) | JAMIA, 2026
+- [Comparing ambient scribes: a randomized crossover clinical trial addressing ambient scribe technologies' impact on physician burnout](https://doi.org/10.1093/jamia/ocag018) | JAMIA, 2026
 - [Impact of an Ambient AI Scribe Among Clinicians and Patients: Real-World Prospective Observational Time-Motion Study](https://medinform.jmir.org/2026/1/e85580/) | JMIR Medical Informatics, 2026
 - [Ambient scribe in general practice: a multi-perspective before-after longitudinal mixed-methods study](https://www.nature.com/articles/s41746-026-02454-3) | npj Digital Medicine, 2026
+- [Use of AI scribes in UK primary care: a survey of general practitioners](https://www.nature.com/articles/s41746-026-02762-8) | npj Digital Medicine, 2026
+- [Rapid Evaluation of Artificial Intelligence Technology Used for Ambient Dictation in Primary Care: Comparing the Quality of Documentation of Artificial Intelligence-Generated and Human-Produced Clinical Notes](https://www.acpjournals.org/doi/10.7326/ANNALS-25-02772) | Annals of Internal Medicine, 2026
+- [Changes in Clinician Time Expenditure and Visit Quantity With Adoption of Artificial Intelligence-Powered Scribes: A Multisite Study](https://jamanetwork.com/journals/jama/fullarticle/2847319) | JAMA, 2026
 
 ## Fact Checking
 
