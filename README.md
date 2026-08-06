@@ -7,7 +7,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the curation and year-grouping policy
 ## Table of Contents
 
 - [Large Language Models](#large-language-models)
-- [Medical Agents](#medical-agents)
+- [Medical Agents and Clinical Simulation](#medical-agents-and-clinical-simulation)
 - [Synthetic Data Generation](#synthetic-data-generation)
 - [Data Representation and Predictive Modeling](#data-representation-and-predictive-modeling)
 - [Toward a Natural Language Interface for EHRs](#toward-a-natural-language-interface-for-ehrs)
@@ -30,22 +30,67 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the curation and year-grouping policy
 - [Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare](https://openreview.net/forum?id=nSIEwsIT6r) | NeurIPS GenAI4Health Workshop' 24
 - [MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain](https://aclanthology.org/2024.emnlp-main.958/) | EMNLP' 24
 
-## Medical Agents
+## Medical Agents and Clinical Simulation
+
+Research on clinical agents and the simulated patients or environments used to
+train and evaluate them. Papers are grouped by their primary contribution:
+the clinical policy, the patient model, or the interactive environment and its
+evaluation.
+
+### Clinical Agents
 
 **Through 2023**
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://aclanthology.org/2024.findings-acl.33/) | Findings of ACL' 24
 
 **2024**
-- [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](https://aclanthology.org/2025.coling-main.680/) | COLING' 25
 - [AgentMD: Empowering language agents for risk prediction with large-scale clinical tool learning](https://www.nature.com/articles/s41467-025-64430-x) | Nature Communications, 2025
 - [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90d1fc07f46e31387978b88e7e057a31-Abstract-Conference.html) | NeurIPS' 24
-- [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957) | arXiv, 2024/05
-- [AgentClinic: a multimodal benchmark for tool-using clinical AI agents](https://www.nature.com/articles/s41746-026-02674-7) | npj Digital Medicine, 2026
 - [DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://doi.org/10.1145/3699765) | IMWUT, 2024
 - [ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](https://papers.neurips.cc/paper_files/paper/2025/hash/6a059625a6027aca18302803743abaa2-Abstract-Datasets_and_Benchmarks_Track.html) | NeurIPS Datasets and Benchmarks' 25
 - [MMedAgent: Learning to Use Medical Tools with Multi-modal Agent](https://aclanthology.org/2024.findings-emnlp.510/) | Findings of EMNLP' 24
 - [MEDCO: Medical Education Copilots Based on a Multi-agent Framework](https://doi.org/10.1007/978-3-031-91813-1_8) | ECCV Workshops' 24
+
+### Patient Simulation
+
+**2024**
+- [Simulating Diverse Patient Populations Using Patient Vignettes and Large Language Models](https://aclanthology.org/2024.cl4health-1.3/) | CL4Health' 24
+- [PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals](https://aclanthology.org/2024.emnlp-main.711/) | EMNLP' 24 | [Code](https://github.com/ruiyiw/patient-psi)
+- [Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles](https://aclanthology.org/2024.emnlp-main.591/) | EMNLP' 24
+- [Leveraging Large Language Model as Simulated Patients for Clinical Education](https://arxiv.org/abs/2404.13066) | arXiv, 2024/04
+- [Simulated Patient Systems Powered by Large Language Model-Based Agents](https://pubmed.ncbi.nlm.nih.gov/41420084/) | Communications Medicine, 2025
+- [LLMs Can Simulate Standardized Patients via Agent Coevolution](https://aclanthology.org/2025.acl-long.846/) | ACL' 25 | [Code](https://github.com/ZJUMAI/EvoPatient)
 - [Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions](https://arxiv.org/abs/2408.15787) | arXiv, 2024/08
+
+**2025**
+- [PatientSim: A Persona-Driven Simulator for Realistic Doctor-Patient Interactions](https://arxiv.org/abs/2505.17818) | arXiv, 2025/05 | [Data](https://physionet.org/content/persona-patientsim/1.0.0/)
+- [Adaptive-VP: A Framework for LLM-Based Virtual Patients that Adapts to Trainees' Dialogue to Facilitate Nurse Communication Training](https://aclanthology.org/2025.findings-acl.118/) | Findings of ACL' 25
+- [Human or LLM as Standardized Patients? A Comparative Study in Medical Education](https://aclanthology.org/2026.acl-long.1243/) | ACL' 26
+
+**2026**
+- [Large Language Model-Based Virtual Patient Systems for History-Taking in Medical Education: Comprehensive Systematic Review](https://pubmed.ncbi.nlm.nih.gov/41481915/) | JMIR Medical Informatics, 2026
+- [Multi-Stage Patient Role-Playing Framework for Realistic Clinical Interactions](https://arxiv.org/abs/2601.10951) | arXiv, 2026/01
+- [DemMA: Dementia Multi-Turn Dialogue Agent with Expert-Guided Reasoning and Action Simulation](https://arxiv.org/abs/2601.06373) | arXiv, 2026/01
+- [PUPPET: Neural-Symbolic Standardized Patients for Mental Health](https://aclanthology.org/2026.acl-long.121/) | ACL' 26
+- [StsPatient: Beyond Prompt: Fine-grained Simulation of Cognitively Impaired Standardized Patients via Stochastic Steering](https://aclanthology.org/2026.findings-acl.1401/) | Findings of ACL' 26
+- [Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure](https://arxiv.org/abs/2606.17441) | arXiv, 2026/06
+
+### Interactive Environments and Evaluation
+
+**2024**
+- [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](https://aclanthology.org/2025.coling-main.680/) | COLING' 25
+- [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957) | arXiv, 2024/05
+- [AgentClinic: a multimodal benchmark for tool-using clinical AI agents](https://www.nature.com/articles/s41746-026-02674-7) | npj Digital Medicine, 2026
+
+**2025**
+- [DischargeSim: A Simulation Benchmark for Educational Doctor-Patient Communication at Discharge](https://aclanthology.org/2025.emnlp-main.546/) | EMNLP' 25
+
+**2026**
+- [LLMs as Standardised Patients for Motivational Interviewing: How Faithful Are They?](https://aclanthology.org/2026.clpsych-1.21/) | CLPsych' 26
+- [PsychBench: Auditing Epidemiological Fidelity in Large Language Model Mental Health Simulations](https://arxiv.org/abs/2604.17359) | arXiv, 2026/04
+- [VeriSim: A Configurable Framework for Evaluating Medical AI Under Realistic Patient Noise](https://arxiv.org/abs/2604.10441) | arXiv, 2026/04
+- [MedDialBench: Benchmarking LLM Diagnostic Robustness under Parametric Adversarial Patient Behaviors](https://arxiv.org/abs/2604.06846) | arXiv, 2026/04
+- [MedConceal: A Benchmark for Clinical Hidden-Concern Reasoning Under Partial Observability](https://arxiv.org/abs/2604.08788) | arXiv, 2026/04
+- [PatientAgentBench: A Benchmark Framework for Evaluating Patient-Facing Health AI Agents](https://arxiv.org/abs/2607.25485) | arXiv, 2026/07
 
 ## Synthetic Data Generation
 
