@@ -47,6 +47,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the curation and year-grouping policy
 - [MEDCO: Medical Education Copilots Based on a Multi-agent Framework](https://doi.org/10.1007/978-3-031-91813-1_8) | ECCV Workshops' 24
 - [Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions](https://arxiv.org/abs/2408.15787) | arXiv, 2024/08
 
+**2026**
+- [Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care](https://arxiv.org/abs/2606.31036) | NeurIPS, 2026 | [Code](https://github.com/roychowdhuryresearch/Manana)
+
 ## Synthetic Data Generation
 
 **Through 2023**
